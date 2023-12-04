@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>College</title>
+</head>
+<body>
+	<h1>Department</h1>
+		<hr>
+		<h3>Semester</h3>
+			<h3>Subject: Subject 1</h3>
+			<h3>Faculty: Faculty 1</h3>
+
+			<table border="2">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Mark</th>
+						<th>Maximum Mark</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Student 1 </td>
+						<td>42</td>
+						<td>50</td>
+					</tr>
+					<tr>
+						<td>Student 2 </td>
+						<td>39</td>
+						<td>50</td>
+					</tr>
+				</tbody>
+			</table>
+</body>
+</html>
