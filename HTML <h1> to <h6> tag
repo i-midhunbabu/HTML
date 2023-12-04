@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>HTML</title>
+</head>
+<body>
+	<h1>HTML</h1>
+	<h2>Heading Tag</h2>
+	<h3>h1</h3>
+	<h4>h2</h4>
+	<h5>h3</h5>
+	<h6>h4 h5 h6</h6>
+</body>
+</html>
