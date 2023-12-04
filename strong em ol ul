@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML</title>
+</head> 
+<body>
+	<h1>Introduction to HTML</h1>
+	<hr>
+	<p><em><strong>HTML</strong> or <strong>Hypertext Markup Language</strong> defines how the webpage looks and how to display content with the help of elements.</em></p>
+	<ul><h4>Features of HTML</h4>
+		<li>Structure of the webpage</li>
+		<li>Can add Graphics, Audio, Video...</li>
+	</ul>
+	<br>
+	<ol><h4>Tags in HTML</h4>
+		<li><strong>h1....h6 tag</strong></li>
+		<li><strong>strong tag</strong></li>
+		<li><strong>em tag</strong></li>
+		<li><strong>ol tag</strong></li>
+		<li><strong>ul tag</strong></li>
+		<li><strong>li tag</strong></li>
+	</ol>
+	<ol><h4>List of Self Closing Tags</h4>
+		<li><strong>hr tag</strong></li>
+		<li><strong>br tag</strong></li>
+		<li><strong>img tag</strong></li>
+	</ol>
+
+</body>
+</html>
